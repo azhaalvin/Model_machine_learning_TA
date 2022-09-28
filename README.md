@@ -32,7 +32,10 @@ SVM = baris 546
 cara menggunakan program seleksi fitur 
 
 1.Download folder Program Metode Seleksi Fitur
+
 2. Buka file Algoritma_Metode_Seleksi_Fitur.ipynb menggunakan editor Jupyter atau Google Colab
+
 3. Masukan dataset Feature_FIR.csv yang terdapat pada folder dataset
 Run Program
+
 4. Gunakan fitur terpilih pada program Model Deteksi apabila ingin melakukan pengujian berdasarkan metode seleksi fitur Pearson Correlation
